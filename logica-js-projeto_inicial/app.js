@@ -27,16 +27,3 @@ alert(`Isso aí! Você descobriu o número secreto: ${numeroSecreto} com ${tenta
 
 
 
-let palavraPessoa = palavraPessoa > 1 ? "pessoas": "pessoa";
-
-if(quantidadePessoas == 1){
-    palavraPessoa = "pessoa";
-}else{
-    palavraPessoa = "pessoas"
-}
-//if (tentativas > 1){
-//alert(`Isso aí! Você descobriu o número secreto: ${numeroSecreto} com ${tentativas} tentativas.`);
-//}
-//else{
-  //  alert(`Isso aí! Você descobriu o número secreto: ${numeroSecreto} com ${tentativas} tentativa.`);
-//}
